@@ -1,0 +1,8 @@
+﻿  pch.cpp
+  dllmain.cpp
+  StringReplacer.cpp
+C:\Users\Йа\Desktop\Lab3\StringReplacement\StringReplacer.cpp(40,28): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Йа\Desktop\Lab3\StringReplacement\StringReplacer.cpp(48,29): warning C4101: e: неиспользованная локальная переменная
+  Создание кода...
+     Создается библиотека C:\Users\Йа\Desktop\Lab3\Debug\StringReplacement.lib и объект C:\Users\Йа\Desktop\Lab3\Debug\StringReplacement.exp
+  StringReplacement.vcxproj -> C:\Users\Йа\Desktop\Lab3\Debug\StringReplacement.dll
